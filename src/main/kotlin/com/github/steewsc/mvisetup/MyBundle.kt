@@ -1,4 +1,4 @@
-package com.github.wyvern1019.firsttemplate
+package com.github.steewsc.mvisetup
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

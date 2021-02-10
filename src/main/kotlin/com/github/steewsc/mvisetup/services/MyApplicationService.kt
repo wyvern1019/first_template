@@ -1,6 +1,6 @@
-package com.github.wyvern1019.firsttemplate.services
+package com.github.steewsc.mvisetup.services
 
-import com.github.wyvern1019.firsttemplate.MyBundle
+import com.github.steewsc.mvisetup.MyBundle
 
 class MyApplicationService {
 

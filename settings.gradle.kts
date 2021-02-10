@@ -1,1 +1,1 @@
-rootProject.name = "first_template"
+rootProject.name = "mvi-setup"

@@ -1,6 +1,6 @@
-package com.github.wyvern1019.firsttemplate.services
+package com.github.steewsc.mvisetup.services
 
-import com.github.wyvern1019.firsttemplate.MyBundle
+import com.github.steewsc.mvisetup.MyBundle
 import com.intellij.openapi.project.Project
 
 class MyProjectService(project: Project) {
