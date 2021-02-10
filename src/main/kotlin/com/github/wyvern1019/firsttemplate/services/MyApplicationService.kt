@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wyvern1019.firsttemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wyvern1019.firsttemplate.MyBundle
 
 class MyApplicationService {
 

@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.wyvern1019.firsttemplate.services
 
+import com.github.wyvern1019.firsttemplate.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
